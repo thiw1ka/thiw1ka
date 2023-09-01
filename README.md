@@ -4,18 +4,18 @@
 
 
 
-I'm a Robotics Ph.D candidate at the University of Rhode Island who is passionate about probabilistic multi-target filters, sensor-fusion, and robot localization.
+I'm a Robotics Ph.D candidate at the University of Rhode Island who is passionate about probabilistic multi-target filters, sensor-fusion, and robot localization. Apart from my work, I’m passionate about wildlife photography 📷.
 
 🔭 I'm currently working on genetic algorithm optimization on variables for a particle filter tracking of algae blooms on fresh water lakes.
 
 <details>
 <summary>My top language skills</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Cpp       |
-|     2| Python    |
-|     3| Bash      |
+| Rank | Languages | Skill level |
+|-----:|-----------| -----------|
+|     1| Cpp       | 8/10       |
+|     2| Python    |6/10       |
+|     3| Bash      |5/10      |
 
 </details>
 
@@ -24,7 +24,7 @@ I'm a Robotics Ph.D candidate at the University of Rhode Island who is passionat
 I'm open for work opportunities and would love to hear from you!
 
 
-🪐  extraterrestrial visitors 😄! 
+🪐  Extraterrestrial visitors 😄! 
 
 ![Visitor Count](https://profile-counter.glitch.me/thiw1ka/count.svg) 
 <!--
