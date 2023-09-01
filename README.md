@@ -20,6 +20,10 @@ I'm a Robotics Ph.D. candidate at the University of Rhode Island who is passiona
 
 I'm open for work opportunities and would love to hear from you!
 
+ My Secret Message 😄
+ 
+-.-- --- ..- / .- .-. . / .- .-- . ... --- -- . .-.-.- / .... .. .-. . / -- . 
+
 
 🪐  Extraterrestrial visitors 😄! 
 
