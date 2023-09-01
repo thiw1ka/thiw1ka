@@ -8,6 +8,17 @@ I'm a Robotics Ph.D candidate at the University of Rhode Island who is passionat
 
 🔭 I'm currently working on genetic algorithm optimization on variables for a particle filter tracking of algae blooms on fresh water lakes.
 
+<details>
+<summary>My top language skills</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Cpp       |
+|     2| Python    |
+|     3| Bash      |
+
+</details>
+
 📫 Reach me at thiva@uri.edu.
 
 I'm open for work opportunities and would love to hear from you!
